@@ -74,5 +74,6 @@ deploy:
         
 backup:
     type: git
+    theme: next
     repository:
         source: https://github.com/VivianSnow/myhexo_source.git,master
